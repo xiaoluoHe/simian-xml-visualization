@@ -31,7 +31,7 @@ Subject to the Quandary Peak Academic Software License.
         ...More
 ```
 
-<img src="./public/readme-demo.png" style="width: 500px">
+<img src="./public/readme-demo.png" >
 
 ## 🔗 Related Links
 
