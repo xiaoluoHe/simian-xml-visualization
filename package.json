@@ -1,0 +1,22 @@
+{
+  "name": "simian-xml-visualization",
+  "version": "0.0.0",
+  "author": "sevnape@outlook.com",  
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@visactor/vtable": "^0.21.1",
+    "solid-js": "^1.8.15",
+    "xml-js": "^1.6.11"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.26",
+    "typescript": "^5.2.2",
+    "vite": "^5.1.6",
+    "vite-plugin-solid": "^2.10.1"
+  }
+}

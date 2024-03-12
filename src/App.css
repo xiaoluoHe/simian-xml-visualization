@@ -1,0 +1,16 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.tag {
+  display: inline-block;
+  padding: 2px 4px;
+  background-color: #f2f2f2;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 12px;
+  margin: 0 4px 5px 0px;
+  color: #333;
+}
